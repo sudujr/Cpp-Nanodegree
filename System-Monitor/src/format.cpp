@@ -17,4 +17,4 @@ string Format::ElapsedTime(long seconds) {
      string output = to_string(hours) + sign + to_string(minutes) + sign + to_string(second);
      return output; 
      
-     }
+}
